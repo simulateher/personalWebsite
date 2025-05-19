@@ -1,0 +1,5 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Johanna Israel"
+theme = "hugo-theme-cleanwhite"
+pagerSize = 10
